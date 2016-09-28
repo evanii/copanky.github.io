@@ -1,0 +1,2 @@
+Redirect permanent /index.html http://evanii.brloh.org/cz/index.html
+Redirect 301 /index.html http://evanii.brloh.org/cz/index.html
